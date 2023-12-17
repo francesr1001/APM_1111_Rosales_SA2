@@ -1,8 +1,0 @@
-GITHUB LINK:
-
-python code:
-https://github.com/francesr1001/APM_1111_Rosales_SA2/blob/main/RatExploration_csvFile_SA2_APM1111.ipynb
-
-
-JASP:
-https://github.com/francesr1001/APM_1111_Rosales_SA2/blob/main/RatExploration_csvFile.jasp
